@@ -1,4 +1,4 @@
-'from fastapi import FastAPI
+from fastapi import FastAPI
 from pydantic import BaseModel
 from queue import Queue
 from datetime import datetime, timedelta
